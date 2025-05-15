@@ -87,11 +87,3 @@ The dataset used is publicly available on [Kaggle – Hotel Booking Demand](http
 
 **Mahmoud Mohamed Fawzy Elzayat**  
 [🔗 LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
-
----
-
-## 📸 Dashboard Preview
-
-Here's a screenshot from the **Booking Overview** page in Power BI:
-
-![Dashboard Screenshot](dashboard_screenshot.png)
