@@ -75,7 +75,6 @@ hotel-booking-dashboard/
 ├── data/                  # Raw and cleaned dataset
 ├── python-analysis/       # EDA scripts and charts
 ├── dashboard/             # Power BI (.pbix) file
-├── visuals/               # Dashboard screenshots
 └── README.md              # Project documentation
 ```
 
